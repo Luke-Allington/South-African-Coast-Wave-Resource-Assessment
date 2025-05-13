@@ -32,7 +32,7 @@ plotMonthlyMeanHMO(data);
 % Save a quick summary report to CSV for sharing or archiving
 exportSummaryToCSV(data, 'Wave_Analysis_Report.csv');
 
-fprintf('\n✅ Done! Summary saved to "Wave_Analysis_Report.csv"\n');
+fprintf('\n Done! Summary saved to "Wave_Analysis_Report.csv"\n');
 
 %% === Helper Functions ===
 
@@ -62,7 +62,7 @@ function data = loadWaveData(filePath)
 end
 
 function displaySummaryStats(data)
-    fprintf('\n🌊 Quick Look at the Dataset:\n');
+    fprintf('\n Quick Look at the Dataset:\n');
     fprintf('------------------------------\n');
     fprintf('Total rows: %d\n', height(data));
     fprintf('Time span: %s to %s\n', datestr(min(data.DateTime)), datestr(max(data.DateTime)));
