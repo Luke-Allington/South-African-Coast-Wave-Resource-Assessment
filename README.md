@@ -15,7 +15,7 @@ The analysis is built using MATLAB and follows methods based on the IEC TS 62600
 - Richards Bay  
 - Slangkop
 
-Each site has its own dataset, but they all go through the same script for consistency and easy comparison.
+Each site has its own dataset, but they all go through the same script for consistency and easy comparison. (Supplied upon request)
 
 ---
 
