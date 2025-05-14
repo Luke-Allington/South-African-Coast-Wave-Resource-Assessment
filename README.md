@@ -63,7 +63,7 @@ Contact via: lukeallington@outlook.com
 
 ## Project Aim
 
-The goal here is to better understand South Africa’s wave energy potential — to see where the ocean offers the most promising opportunities for marine energy developemnt using NOAA database.
+The goal here is to better understand South Africa’s wave energy potential — to see where the ocean offers the most promising opportunities for marine energy development using NOAA database.
 
 ---
 
